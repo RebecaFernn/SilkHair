@@ -1,0 +1,75 @@
+Coloque cada arquivo no diretório `assets/` na raiz do projeto. Essa pasta já está configurada como diretório público do Vite.
+
+1. product-bottle.png
+   Arquivo: PNG-24, 1800 x 3000 px, proporção vertical 3:5, sRGB e fundo totalmente transparente com canal alfa. O produto deve ocupar aproximadamente 82% da altura, inteiro e sem cortes.
+
+   Prompt: Render publicitário premium de um frasco cosmético para cabelo da marca SilkHair, isolado e centralizado, proporção vertical 3:5, com fundo totalmente transparente. Frasco minimalista e sofisticado, formato alto com curvas suaves e femininas, acabamento rosa perolado acetinado, base em Soft Pink #F7DDE5 com reflexos delicados em Rose Pink #EFAFC3 e brilho iridescente muito sutil. Material premium, superfície lisa, elegante e realista. Tampa ou válvula pump refinada em tom Pearl #FFFDFC, com pequenos detalhes em Powder Blue #8FB9D4. Design equilibrado, moderno e delicado, sem excesso de ornamentos. Rótulo frontal minimalista impresso diretamente no frasco. Logotipo “SilkHair” em Deep Slate #394452, tipografia serifada elegante inspirada em Playfair Display. Abaixo, em tipografia sans-serif limpa inspirada em Montserrat: PROTETOR TÉRMICO; SilkShield™; Proteção · Hidratação · Brilho; 150 ml. Inserir uma linha fina e orgânica em Rose Pink como detalhe visual, sugerindo um fio de seda ou uma mecha de cabelo fluida. Reflexos suaves de estúdio, acabamento perolado realista, sombras internas delicadas e contornos bem definidos. Aparência de fotografia de produto cosmético de luxo, vista frontal em leve ângulo de três quartos, frasco inteiro visível, sem cortes. Iluminação de estúdio difusa, suave e feminina, com highlights controlados nas bordas. Produto nítido, fotorrealista, alta resolução, recorte perfeito, canal alfa, sem cenário, sem superfície, sem sombra projetada fora do objeto, sem elementos adicionais.
+
+   Negative prompt: fundo colorido, fundo branco sólido, cenário, mãos, pessoas, cabelos, flores, objetos decorativos, embalagem externa, caixa, texto ilegível, letras deformadas, erros ortográficos, logotipo duplicado, frasco cortado, baixa resolução, ruído, plástico barato, cores saturadas, brilho metálico excessivo, reflexos duros, sombra pesada, perspectiva distorcida, embalagem genérica, marca d’água.
+
+   Observação: para garantir a legibilidade perfeita do rótulo, gere o frasco com uma área frontal livre e aplique a tipografia posteriormente no Figma, Photoshop ou Canva.
+
+2. texture-satin.jpg — textura macro de tecido acetinado em tons de rosa claro.
+
+Prompt: Fotografia macro hiper-realista de tecido acetinado premium em tons suaves de rosa-claro, com predominância de Soft Pink (#F7DDE5) e reflexos delicados em Rose Pink (#EFAFC3) e Pearl (#FFFDFC). O tecido forma ondas orgânicas e dobras fluidas, remetendo à suavidade, ao movimento e ao efeito sedoso de cabelos bem cuidados. Superfície lisa e refinada, brilho acetinado sutil, iluminação difusa e elegante, sombras muito suaves e transições delicadas. Composição minimalista, feminina, sofisticada e moderna, com atmosfera acolhedora de autocuidado premium. Enquadramento fechado, textura preenchendo toda a imagem, profundidade de campo suave e alta definição. Sem objetos, sem pessoas, sem cabelo, sem estampas, sem costuras, sem texto, sem logotipo e sem elementos decorativos. Estética clean de campanha de beleza de luxo, sem brilho plástico ou aparência artificial.
+
+Negative prompt:cores fortes ou neon, rosa escuro, vermelho, roxo intenso, tecido amassado, dobras duras, sombras pesadas, alto contraste, textura áspera, algodão, veludo, plástico, aparência sintética, excesso de brilho, reflexos estourados, glitter, estampas, bordados, costuras, objetos, pessoas, mãos, cabelo, produto, frasco, texto, letras, logotipo, marca-d’água, ruído, granulação, baixa resolução, desfoque excessivo
+
+Configuração sugerida:
+Formato: JPG
+Proporção: 16:9 para banner ou 1:1 para uso versátil
+Estilo: fotografia macro editorial de beleza
+Iluminação: difusa, suave e perolada
+Qualidade: alta resolução / photorealistic
+Composição: uniforme, com espaço visual suave para possível sobreposição de texto
+
+3. silkhair-abstract.png — formas orgânicas em gradiente rosa e azul, com sensação de brilho.
+
+Prompt: Arte abstrata premium e minimalista composta por formas orgânicas, fluidas e sobrepostas, inspiradas no movimento da seda e em cabelos macios. Gradientes suaves combinando Soft Pink (#F7DDE5), Rose Pink (#EFAFC3), Baby Blue (#C9E3F2) e Powder Blue (#8FB9D4), com detalhes luminosos em Pearl (#FFFDFC). Curvas delicadas, transições de cor contínuas, reflexos perolados e brilho difuso sutil, criando sensação de leveza, hidratação, suavidade e movimento. Profundidade discreta, transparências elegantes e acabamento acetinado, sem parecer plástico. Composição equilibrada e arejada, com uso generoso de espaço negativo. Estética feminina, sofisticada, moderna e acolhedora, alinhada a uma marca premium de cuidados capilares. Fundo claro e limpo, alta resolução, visual editorial de beleza, sem texto, sem logotipo, sem produtos e sem pessoas.
+
+Negative prompt: cores neon, tons muito saturados, contraste agressivo, formas geométricas rígidas, linhas pesadas, cantos pontiagudos, aparência infantil, estética futurista excessiva, efeito plástico, metal cromado, brilho intenso, reflexos estourados, glitter, partículas em excesso, textura áspera, fundo escuro, preto predominante, sombras duras, excesso de elementos, composição poluída, cabelo, pessoas, mãos, frascos, produtos, texto, letras, logotipo, ícones, molduras, marca-d’água, ruído, baixa resolução, pixelização
+
+Configurações sugeridas:
+Formato final: PNG
+Proporção: 16:9 para banners ou 1:1 para uso versátil
+Estilo: arte abstrata 3D suave / editorial de beleza
+Iluminação: difusa e perolada
+Composição: formas concentradas nas bordas, preservando uma área central limpa para conteúdo
+Qualidade: alta resolução, acabamento nítido e gradientes sem faixas de cor
+
+4. avatar-isabela.jpg — foto 1x1 de uma beauty editor (inspiração editorial, cabelos ondulados).
+5. avatar-camila.jpg — foto 1x1 de cabeleireira especialista (loira, visual profissional).
+6. avatar-julia.jpg — foto 1x1 de cliente jovem (morena, sorriso natural).
+
+7. cta-fabric.jpg — close-up de tecido fluido azul/rosa para compor a área de CTA.
+
+Prompt: Fotografia editorial em close-up de um tecido acetinado premium, leve e fluido, formando ondas largas e dobras orgânicas inspiradas no movimento sedoso dos cabelos. Gradiente harmonioso entre Baby Blue (#C9E3F2), Powder Blue (#8FB9D4), Soft Pink (#F7DDE5) e pequenos reflexos em Rose Pink (#EFAFC3), com iluminação perolada em #FFFDFC. Superfície lisa, macia e refinada, com brilho acetinado sutil e reflexos luminosos delicados. Sensação de movimento, leveza, suavidade e autocuidado premium. Composição sofisticada, feminina, moderna e minimalista, adequada ao fundo de uma seção de CTA para uma marca de cuidados capilares. Dobras concentradas nas laterais e extremidades, preservando uma área central mais uniforme, limpa e com baixo contraste para sobreposição legível de título e botão. Iluminação difusa, sombras suaves, profundidade elegante, fotografia hiper-realista, alta definição, sem objetos, sem pessoas, sem cabelo, sem texto e sem logotipo.
+
+Negative prompt: tecido áspero, algodão, linho, veludo, plástico, aparência artificial, dobras duras ou excessivamente amassadas, rugas pequenas, sombras pesadas, alto contraste, cores neon ou saturadas, azul-escuro, rosa-choque, vermelho, roxo intenso, fundo preto, brilho metálico, glitter, reflexos estourados, estampas, bordados, costuras, objetos, pessoas, mãos, cabelo, frascos, produtos, texto, letras, botões, logotipo, marca-d’água, composição poluída, ruído, granulação, baixa resolução, pixelização, desfoque excessivo
+
+Configurações sugeridas:
+Formato final: JPG
+Proporção: 16:9 ou 21:9
+Enquadramento: horizontal e panorâmico
+Estilo: fotografia macro editorial de beleza
+Iluminação: suave, difusa e perolada
+Composição: área central limpa; movimento visual nas laterais
+Qualidade: alta resolução e compressão mínima
+Observação: gerar a imagem sem o texto e o botão do CTA; eles devem ser inseridos posteriormente no layout.
+
+8. favicon.png — ícone minimalista da marca (por exemplo, “S” estilizado em rosa).
+
+Prompt:Ícone vetorial minimalista para a marca premium de cuidados capilares SilkHair. Monograma com a letra “S” estilizada, formado por uma única curva fluida e elegante, inspirada em uma mecha de cabelo sedosa e no movimento de uma fita de cetim. Traço limpo, delicado e facilmente reconhecível em tamanhos muito pequenos. Letra em Rose Pink (#EFAFC3), com acabamento predominantemente plano e um brilho perolado extremamente sutil. Fundo sólido Pearl (#FFFDFC). Composição centralizada, simétrica e equilibrada, com bastante respiro ao redor do símbolo. Identidade sofisticada, feminina, moderna, delicada e confiável. Design vetorial, bordas precisas, alto contraste e excelente legibilidade. Sem palavras, sem elementos adicionais, sem mockup, imagem quadrada 1:1.
+
+Negative prompt:texto “SilkHair”, outras letras, tipografia complexa, fonte manuscrita ilegível, excesso de detalhes, linhas muito finas, ícone genérico, símbolo de dólar, ornamentos, moldura, círculo externo, flores, coroas, rostos, silhuetas, frascos, tesouras, pentes, secadores, gradientes intensos, efeito 3D, sombras pesadas, brilho excessivo, glitter, neon, textura, fundo complexo, mockup, perspectiva, marca-d’água, baixa resolução, bordas borradas
+
+Versão recomendada para favicon
+Como favicons são exibidos em tamanhos pequenos, prefira uma versão ainda mais simples:Monograma vetorial ultraminimalista com a letra “S” em Rose Pink (#EFAFC3), desenhada com uma curva fluida, espessura média e terminações arredondadas, evocando uma mecha de cabelo sedosa. Fundo sólido Pearl (#FFFDFC), alto contraste, símbolo grande e perfeitamente centralizado, ocupando aproximadamente 70% da tela. Formato quadrado, design plano, sem sombras, sem texto adicional e sem detalhes finos.
+
+Configurações sugeridas:
+Formato: PNG com fundo transparente ou Pearl
+Proporção: 1:1
+Tamanho de geração: 1024 × 1024 px
+Exportações: 512 × 512, 192 × 192, 48 × 48, 32 × 32 e 16 × 16 px
+Área de segurança: 15% de margem em todos os lados
+Dica: para navegadores, converter também para .ico com versões de 16, 32 e 48 px.
