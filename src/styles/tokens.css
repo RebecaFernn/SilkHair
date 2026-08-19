@@ -1,0 +1,33 @@
+:root {
+  --color-soft-pink: #f7dde5;
+  --color-rose-pink: #efafc3;
+  --color-baby-blue: #c9e3f2;
+  --color-powder-blue: #8fb9d4;
+  --color-pearl: #fffdfc;
+  --color-deep-slate: #394452;
+  --color-deep-slate-soft: rgba(57, 68, 82, 0.75);
+  --color-midnight: #1e2330;
+
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Montserrat', sans-serif;
+
+  --shadow-soft: 0 20px 45px rgba(239, 175, 195, 0.2);
+  --shadow-medium: 0 30px 60px rgba(57, 68, 82, 0.18);
+
+  --radius-sm: 12px;
+  --radius-md: 20px;
+  --radius-lg: 32px;
+
+  --container-max: 1168px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
